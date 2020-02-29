@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap-theme.min.css">
     <link rel="stylesheet" href="Font/glyphicons-halflings-regular.svg">
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
@@ -29,25 +28,19 @@
                 document.getElementById('ct').removeAttribute("required");
                 document.getElementById('add').removeAttribute("required");
                 document.getElementById('p').removeAttribute("required");
-            }
-
-            else{
+            } else{
                 document.getElementById('cty').style.display = 'block';
                 document.getElementById('ad').style.display = 'block';
                 document.getElementById('pho').style.display = 'block';
-
             }
-
         }
     </script>
+
     <style>
-
-
         .active {
             background-color: #4CAF50;
 
         }
-
         div.gallery {
             margin: 5px;
             border: 1px hidden #ccc;
@@ -56,46 +49,38 @@
             /*justify-content:space-around;*/
             padding: 10px;
         }
-
         div.gallery:hover {
             border: 1px solid #777;
             box-shadow: 10px 10px 5px #888888;
         }
-
         div.gallery img {
             width: 100%;
             height: 160px;
         }
-
         div.desc {
             padding: 15px;
             text-align: center;
             color: darkblue;
         }
-
         div.head {
             width:850px;
             margin: 100px;
             border: .5px solid gray;
-
         }
         footer {
             background-color: #F1F1F1;
             text-align: center;
             margin-top:20px
-
         }
         /*.row:nth-child(2n){
             border-top: 1.2px solid gray;
             outline-width: thin;
-
-
         }*/
         /*#item{
           text-align: left;
           color: darkblue;
         }*/
-        .btn{
+        .btn {
             /*float: right*/;
             margin-top:  10px;
             margin-bottom: 20px;
@@ -106,43 +91,30 @@
             padding-top: 20px;
             margin-bottom: 20px ;
             min-height:100vh;
-
         }
-        img {width:600px; height:400px;}
-
+        img {
+            width:600px; height:400px;
+        }
         .container {
-
             padding-right: 15px;
             padding-left: 15px;
             margin-right: auto;
             margin-left: auto;
         }
-
-
-
-
-
-
         .navbar {
             margin-bottom: 50px;
             border-radius: 0;
             font-family: Montserrat, sans-serif;
             /*background-color: #AA0000;*/
         }
-
-
         .jumbotron {
             margin-bottom: 0;
             margin-top: 0;
         }
-
-
         footer {
             background-color: #f2f2f2;
             padding: 25px;
         }
-
-
         .slideanim {visibility:hidden;}
         .slide {
             animation-name: slide;

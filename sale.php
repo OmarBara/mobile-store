@@ -20,7 +20,7 @@ include 'Classes.php';
 <?php
 //function to { read category file} $$ { phonexx file }
 $category_content = file_get_contents("Products/categories.txt");
-$singleCategory = explode("\n",$category_content);
+$singleCategory = explode("\n", $category_content);
 //call function display item
 $counter = 0;
 foreach ( $singleCategory as $item ) {
@@ -52,7 +52,7 @@ foreach ( $singleCategory as $item ) {
                 $counter++;
             }else if ($counter == 1){
                 echo $Category->outputTable();$counter++;
-            }else if (($counter ==0 || $counter = 1) && ($co == 1)){
+            }else if (($counter == 0 || $counter = 1) && ($co == 1)){
                 echo '</div>';
             }
 

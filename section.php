@@ -1,7 +1,7 @@
 <?php
 session_start();
-$_SESSION["counter"] =0;
-$_SESSION['invoice']='';
+$_SESSION["counter"] = 0;
+$_SESSION['invoice'] = '';
 /**
  * Created by PhpStorm.
  * User: OMAR BARA
