@@ -19,7 +19,7 @@ include 'classes.php';
 <div class="container">
     <?php
     //function to { read category file} $$ { phonexx file }
-    $category_content = file_get_contents("categories.txt");
+    $category_content = file_get_contents("Products/categories.txt");
     $singleCategory =explode("\n",$category_content);
     //call function display item
     $counter =0;
