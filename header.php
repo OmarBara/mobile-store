@@ -31,7 +31,6 @@
                 document.getElementById('p').removeAttribute("required");
             }
 
-
             else{
                 document.getElementById('cty').style.display = 'block';
                 document.getElementById('ad').style.display = 'block';

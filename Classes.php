@@ -260,14 +260,14 @@ class Cart
 
     function __construct($id, $name, $imagePath, $productPath, $price = 0, $color = '', $sale = 0, $amount = null)
     {
-        $this->id=$id;
-        $this->name=$name;
-        $this->imagePath=$imagePath;
-        $this->filePath=$productPath;
-        $this->price=$price;
-        $this->color=$color;
-        $this->sale=$sale;
-        $this->amount=$amount;
+        $this->id = $id;
+        $this->name = $name;
+        $this->imagePath = $imagePath;
+        $this->filePath = $productPath;
+        $this->price = $price;
+        $this->color = $color;
+        $this->sale = $sale;
+        $this->amount = $amount;
     }
 
 
