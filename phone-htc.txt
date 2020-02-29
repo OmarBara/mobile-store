@@ -1,0 +1,2 @@
+10,HTC Desire,pictures/htc.jpg,9,Blue,1400,sale,
+11,HTC One,pictures/htc2.jpg,10,Blue,1100,sale,

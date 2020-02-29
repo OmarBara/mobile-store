@@ -1,0 +1,2 @@
+3,Samsung s8,pictures/ess.jpg,27,Red,1000,sale,
+5,Samsung S7,pictures/sam7.jpg,30,Silver,200,sale,

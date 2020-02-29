@@ -1,0 +1,11 @@
+1,pictures/iphonexx.jpg,phone-Iphone.txt,iphone X 64G
+2,pictures/iphonexx.jpg,phone-Iphone.txt,iphone x 128G
+3,pictures/ess.jpg,phone-samsung.txt,Samsung Galaxy S8 64GB
+4,pictures/iphone6.jpg,phone-Iphone.txt,Iphone s6
+5,pictures/sam7.jpg,phone-Samsung.txt,Samsung S7
+6,pictures/huawei9.jpg,phone-huawei.txt,Hauawei Mate 9
+7,pictures/huaweix6.jpg,phone-huawei.txt,Huawei Honor 6X
+8,pictures/lg.jpg,phone-lg.txt,LG Q6
+9,pictures/lg2.jpg,phone-lg.txt,LG G6
+10,pictures/htc.jpg,phone-htc.txt,HTC Desire
+11,pictures/htc2.jpg,phone-htc.txt,HTC One

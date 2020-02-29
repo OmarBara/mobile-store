@@ -1,0 +1,2 @@
+8,LG Q6,pictures/lg.jpg,9,Blue,1900,
+9,LG G6,pictures/lg2,5,Blue,1400,

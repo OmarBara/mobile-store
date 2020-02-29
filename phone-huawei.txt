@@ -1,0 +1,2 @@
+6,Huawei Mate 9,pictures/huawei9.jpg,8,Gold,1000,
+7,Huawei Honor 6X,pictures/huaweix6.jpg,10,Gray,1200,
