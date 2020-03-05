@@ -7,6 +7,6 @@ the website use files as database which have the advantege of:
 
 also there is an admin controll dashboard that display the orders and van accebt or delete an order.
 this is an open source project meant for student and all who is interested in the php tech and also using files with php.
-# demo
 
+# demo
 ![](gif.gif)
